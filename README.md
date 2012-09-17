@@ -1,4 +1,4 @@
 rgb-track
 =========
 
-simple timetracker based on zand framework
+simple timetracker based on zend framework 1.11
